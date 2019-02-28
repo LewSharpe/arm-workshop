@@ -4,10 +4,10 @@
     "parameters": {
         "storageAccountPrefix": {
             "type": "string",
-            "defaultValue": "richeneystg",
+            "defaultValue": "sharpelstg",
             "maxLength": 11,
             "metadata": {
-                "description": "Prefix for the storage account name"
+                "description": "Lewis STG IaC Deploy"
             }
         },
         "accountType": {
